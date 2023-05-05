@@ -61,8 +61,6 @@ async function updateOne() {
 
 updateOne();
 
-
-
 // const kiwi = new Fruit({
 //     name: "Kiwi",
 //     rating: 10,
